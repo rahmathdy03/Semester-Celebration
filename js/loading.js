@@ -1,6 +1,6 @@
 const steps = [
-  "MeMenghubungkan ke Server Akademik…",
-  "Mencari User…",
+  "Menghubungkan ke Server Akademik…",
+  "Auntentikasi User…",
   "Scan Kartu Hasil Ujian Semester Enam…",
   "Mencari Mahasiswi Finka Aura Fauzi",
   "Mahasiswi Ditemukan ✓",
