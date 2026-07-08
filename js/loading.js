@@ -1,17 +1,17 @@
 const steps = [
-  "Connecting to Academic Server…",
-  "Authenticating User…",
-  "Decrypting Semester Enam…",
-  "Searching Student Finka Aura Fauzi",
-  "Student Found ✓",
-  "Downloading Result…",
-  "Preparing Surprise…"
+  "MeMenghubungkan ke Server Akademik…",
+  "Mencari User…",
+  "Scan Kartu Hasil Ujian Semester Enam…",
+  "Mencari Mahasiswi Finka Aura Fauzi",
+  "Mahasiswi Ditemukan ✓",
+  "Download KHS…",
+  "Menyiapkan Surprise…"
 ];
 
 const truthLines = [
   "BECANDAAAA EHEHEHH",
-  "Aku gaa lagi ngambil data akademik kok.",
-  "Aku ingin ngasih kejutan ke seseorang yang paling aku banggain."
+  "Aku gaa lagi ngambil data akademik kokkk",
+  "Aku ingin ngasih kejutan ke seseorang yang paling aku banggain"
 ];
 
 const progressFill = document.getElementById("progressFill");
