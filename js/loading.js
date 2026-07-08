@@ -83,9 +83,9 @@ function runLoading() {
 
     if (progress === 100) {
       clearInterval(timer);
-      setTimeout(showTruth, 900);
+      setTimeout(showTruth, 1200);
     }
-  }, 160);
+  }, 260);
 }
 
 async function showTruth() {
