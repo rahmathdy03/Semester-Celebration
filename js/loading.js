@@ -67,7 +67,7 @@ function runLoading() {
   let stepIndex = 0;
 
   const timer = setInterval(() => {
-    progress += Math.floor(Math.random() * 3) + 1;
+    progress += Math.floor(Math.random() * 5) + 3;
     if (progress > 100) progress = 100;
 
     progressFill.style.width = `${progress}%`;
@@ -85,7 +85,7 @@ function runLoading() {
       clearInterval(timer);
       setTimeout(showTruth, 1800);
     }
-  }, 380);
+  }, 200);
 }
 
 async function showTruth() {
